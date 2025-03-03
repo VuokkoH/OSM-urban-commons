@@ -3,7 +3,7 @@
 This repository contains scripts and data related to Votsis et al. 2025 "A socio-spatial extension of the local climate zone typology: its potential in computational urban models and an example from Finnish cities".
 
 - [get_osm_data.ipynb](./get_osm_data.ipynb) - Jupyter Notebook with Python code for downloading the OSM data
-- [slupsu_kunnat](./slupsu_kunnat) - Data for delineating the mnicipalities included in the study
+- [slupsu_kunnat](./slupsu_kunnat) - Data for delineating the municipalities included in the study
 - [osm_data](./osm_data) - Data downloaded from OSM (© OpenStreetMap contributors 2021)
 
 
